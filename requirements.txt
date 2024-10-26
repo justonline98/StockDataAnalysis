@@ -1,0 +1,12 @@
+yfinance
+matplotlib
+pandas
+Pyfolio
+NumPy
+seaborn
+jupyter
+pandas_ta
+sklearn
+backtesting
+requests
+beautifulsoup4
